@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Olawinski-e/20.04.02-mongoose-intro#readme",
   "dependencies": {
-    "mongoose": "^5.9.7"
+    "mongoose": "^5.13.15"
   }
 }
